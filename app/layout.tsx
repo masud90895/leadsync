@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Leadsync",
-  description: "Leadsync ",
+  title: "Leadsync Dashboard",
+  description: "Campaign management dashboard for Leadsync",
 };
 
 export default function RootLayout({
